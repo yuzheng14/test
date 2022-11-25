@@ -5,5 +5,5 @@ reportWebVitals(console.log)
 </script>
 
 <template>
-  <h1>hello world</h1>
+  <h1>hello vite-base-vue3</h1>
 </template>
